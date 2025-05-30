@@ -21,6 +21,7 @@ Configurer le port forwarding dans VirtualBox, pour accéder au SSH et à l'inte
 Dans la configuration VirtualBox onglet Réseau : mode **NAT** + règles de port forwarding 
 - Hôte : 
 2222 => VM : 22 pour SSH
+
 8080 => VM : 80 pour GLPI
 
 Tutoriel si besoin : https://www.activecountermeasures.com/port-forwarding-with-virtualbox/
